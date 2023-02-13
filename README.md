@@ -2,6 +2,8 @@
 
 ## About me
 
+<img src="me.jpeg" width=50% height=50%>
+
 ![](me.jpeg )
 
 Hello, world!
