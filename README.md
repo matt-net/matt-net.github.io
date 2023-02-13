@@ -2,7 +2,7 @@
 
 ## About me
 
-![A sample learning curve](Plots/plot_-5_3_3_4_32_4_score_history_PPO.png)
+![A sample learning curve](me.jpeg)
 
 Hello, world!
 
