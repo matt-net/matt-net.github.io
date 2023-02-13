@@ -1,4 +1,4 @@
-# Mahdi Eskandari
+# Mahdi Eskandari, PhD Candidate @ University of Kent
 
 ## About me
 
