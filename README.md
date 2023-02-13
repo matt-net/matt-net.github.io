@@ -2,6 +2,8 @@
 
 ## About me
 
+![A sample learning curve](Plots/plot_-5_3_3_4_32_4_score_history_PPO.png)
+
 Hello, world!
 
 First and foremost, I love writing codes. My first experience with coding was a simple pathfinding programme in C. Even though the code I wrote was full of bugs, it was an experience I will never forget. Since then, I was obsessed with the idea of using software to solve problems. People's lives can be transformed and improved by programming, which I believe in deeply. 
