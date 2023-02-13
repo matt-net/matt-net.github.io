@@ -2,7 +2,7 @@
 
 ## About me
 
-![A sample learning curve](me.jpeg | width=100)
+![](me.jpeg )
 
 Hello, world!
 
