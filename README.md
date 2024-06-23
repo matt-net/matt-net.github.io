@@ -2,7 +2,23 @@
 
 ## About Me
 
-<img src="me.jpeg" alt="Profile Picture">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mahdi Eskandari, PhD Candidate @ University of Kent</title>
+</head>
+<body>
+    <h1>Mahdi Eskandari, PhD Candidate @ University of Kent</h1>
+
+    <h2>About Me</h2>
+    <img src="me.jpeg" alt="Profile Picture" style="width: 50%; height: auto;">
+
+    <p>Hello, world!</p>
+    <p>First and foremost, I love writing code...</p>
+</body>
+</html>
 
 Hello, world!
 
