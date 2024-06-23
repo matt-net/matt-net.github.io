@@ -5,8 +5,8 @@
 <img src="me.jpeg" alt="Profile Picture" style="width: 50%; height: auto;">
 
 
-- [About Me](README.md) <!-- Replace with actual link to your main page -->
-- [Publications](publications.md) <
+- [About Me](README.md) 
+- [Publications](publications.md) 
   
 Hello, world!
 
