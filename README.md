@@ -22,10 +22,10 @@ As a Python developer in the stock market industry, I honed my skills in machine
 
 ### Current Focus
 
-I'm currently pursuing a Ph.D. at the University of Kent, researching RL algorithms in 5G and beyond. My work aims to innovate wireless communications and explore new applications of machine learning.
+I have recently completed my Ph.D. and am now engaged in a postdoctoral position at the University of York. My research focuses on advancing wireless communications through the exploration of novel GenAI applications, particularly in the realm of RL algorithms for 5G and beyond.
 
 ### Skills
 
 - **Programming Languages**: Python, familiar with Julia, MATLAB
-- **Reinforcement Learning**: DQN, Actor-Critic, Multi-agent RL
+- **Reinforcement Learning**: DQN, Actor-Critic, Multi-agent RL, GenAI, cGAN
 - **Optimization**: Convex optimization, Bayesian optimization
