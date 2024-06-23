@@ -2,7 +2,7 @@
 
 ## About Me
 
-![Profile Picture](me.jpeg)
+<img src="me.jpeg" alt="Profile Picture">
 
 Hello, world!
 
